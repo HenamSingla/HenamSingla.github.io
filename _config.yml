@@ -75,17 +75,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : 
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
 author:
   name             : "Henam Singla"
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   bio              : "Quantitative Economist"
   location         : Houston, TX
   employer         :
@@ -109,7 +109,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "henamsingla"
-  mastodon         : "fosstodon.org/@jayrobw"
+  mastodon         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
