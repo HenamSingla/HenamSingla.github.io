@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Henam Singla"
 title_separator          : "-"
 name                     : &name "Henam Singla"
-description              : &description "Postdoc in Political Science"
+description              : &description "PhD Candidate in Economics"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "HenamSingla/HenamSingla.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,14 +57,14 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
-twitter:
   username               : 
+twitter:
+  username               : singlahenam
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : profile1.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -87,11 +87,11 @@ author:
   name             : "Henam Singla"
   avatar           : "profile.png"
   bio              : "Quantitative Economist"
-  location         :
+  location         : Houston, TX
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : 
+  googlescholar    :
   email            : "hsingla@uh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,20 +102,20 @@ author:
   facebook         :
   foursquare       :
   github           : "HenamSingla"
-  gitlab           : "jayrobwilliams"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "henamsingla"
   mastodon         : "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "singlahenam"
   vine             :
   weibo            :
   xing             :
