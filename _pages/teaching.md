@@ -3,10 +3,12 @@ permalink: /teaching/
 title: "Teaching"
 ---
  
-### Teaching Assistant 
+
 
 University of Houston
 --
+
+### Teaching Assistant 
 
 Prof. Steven Craig, Spring 2023
 * Microeconomic Theory: ECON 3332
@@ -22,6 +24,8 @@ Prof. Natalia Zhivan, Fall 2022, Spring 2023
 
 Indian Institute of Management, Bangalore, India
 --
+
+### Teaching Assistant 
 
 Prof. Tirthatanmoy Das, Summer 2021
 * Econometrics for Consultants
