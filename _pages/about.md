@@ -8,21 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an economist data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+> **Fields of Interest**: Labor Economics, Machine Learning & Applied Econometrics
+
+Welcome! I am an economist and data scientist with a strong focus on applying machine learning techniques and causal inference methods to real-world data. Currently, I am pursuing my PhD in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/), where I also work as a research assistant.
+
+I am a third year Economics Ph.D. Student at the [Universtity of Houston](https://www.uh.edu/class/economics/) specializing in labor, and applied econometrics. I focus on building novel and innovative datasets for econometric analysis. Several of my current and past projects have utilizied web-scrapping, machine learning, and natural language processing.
+
+I am a Doctoral Researcher at the [University of Houston - Hobby School of Public Affairs](https://uh.edu/hobby/) during the 2024-2025 academic year. I was previously a Research Assistant at the [New York University](https://nyuad.nyu.edu/en/) in collaboration with [Samreen Malik](https://www.samreenmalik.net/) and [Jordan J. Norris](https://www.jordanjnorris.com/). 
+
+Contact me regarding research or collaboration opportunities. 
+
