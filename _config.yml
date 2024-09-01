@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Henam Singla"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Henam Singla"
 description              : &description "Postdoc in Political Science"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Henam Singla"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Quantitative Economist"
   location         :
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-9259-3883"
   googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  email            : "hsingla@uh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
+  github           : "HenamSingla"
   gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
