@@ -9,8 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Software"
-    url: /software/
+# Remove or comment out the Software tab
+# - title: "Software"
+#   url: "/software/"
 
   - title: "Posts"
     url: /posts/
