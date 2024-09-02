@@ -154,7 +154,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - software.md
+  - "_pages/software.md"
 keep_files:
   - .git
   - .svn
