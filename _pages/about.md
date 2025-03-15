@@ -17,7 +17,7 @@ I completed my Masters' in Economics at the [Universtity of Houston](https://www
 
 I am a Doctoral Researcher at the [University of Houston - Hobby School of Public Affairs](https://uh.edu/hobby/) during the 2024-2025 academic year. I was previously a Research Assistant at the [New York University](https://nyuad.nyu.edu/en/) in collaboration with [Samreen Malik](https://www.samreenmalik.net/) and [Jordan J. Norris](https://www.jordanjnorris.com/). 
 
-Beyond academia, I write about machine learning and econometrics on my [Substack channel](henam.substack.com), where I explore the intersection of AI, labor markets, and economic policy.
+Beyond academia, I write about machine learning and econometrics on my [Substack channel](https://henam.substack.com/), where I explore the intersection of AI, labor markets, and economic policy.
 
 Contact me regarding research or collaboration opportunities. 
 
