@@ -19,10 +19,6 @@ What sets me apart? Storytelling through data. I don’t just code models—I tr
 
 I am also a Doctoral Researcher at the University of Houston - Hobby School of Public Affairs during the 2024–2025 academic year.
 
-I completed my Master's in Economics at the University of Houston with a focus on applied econometrics and labor markets. During my time there, I worked as a research assistant and gained hands-on experience in building predictive models, developing scalable pipelines, and communicating insights effectively to diverse stakeholders.
-
-Previously, I served as a Data Consultant at New York University where I developed deep learning models, NLP pipelines, and predictive analytics for large-scale firm survey data in collaboration with Samreen Malik and Jordan J. Norris.
-
 Beyond work, I write about machine learning and econometrics on my [Substack channel](https://henam.substack.com/), where I explore the intersection of AI, labor markets, and economic decision-making.
 
 Feel free to contact me for collaboration or data science opportunities.
