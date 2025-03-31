@@ -9,15 +9,20 @@ redirect_from:
 ---
 
 
-> **Fields of Interest**: Labor Economics, Machine Learning & Applied Econometrics
+> **Fields of Interest**: Machine Learning, Applied Econometrics, Data Science
 
-Welcome! I am an economist and data scientist with a strong focus on applying machine learning techniques and causal inference methods to real-world data.
+Hi there! I'm a Data Scientist with a strong foundation in economics and a passion for uncovering insights from complex datasets. My work bridges machine learning, causal inference, and real-world impact, developed across roles in finance, public policy and energy.
 
-I completed my Masters' in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/) specializing in labor, and applied econometrics where I also worked as a research assistant. I focus on building novel and innovative datasets for econometric analysis. Several of my current and past projects have utilizied web-scrapping, machine learning, and AI.
+Currently, I work as a Data Scientist at Enerpact, where I built and deployed a Python-based forecasting tool that increased user adoption by 25% and improved well project success rates by 30%. I also designed SQL-driven dashboards and production models to help business teams make data-informed decisions. 
 
-I am a Doctoral Researcher at the [University of Houston - Hobby School of Public Affairs](https://uh.edu/hobby/) during the 2024-2025 academic year. I was previously a Research Assistant at the [New York University](https://nyuad.nyu.edu/en/) in collaboration with [Samreen Malik](https://www.samreenmalik.net/) and [Jordan J. Norris](https://www.jordanjnorris.com/). 
+What sets me apart? Storytelling through data. I don’t just code models—I translate outputs into decisions. My work is driven by a storytelling-first approach—making technical outputs understandable and useful for non-technical teams.
 
-Beyond academia, I write about machine learning and econometrics on my [Substack channel](https://henam.substack.com/), where I explore the intersection of AI, labor markets, and economic policy.
+I am also a Doctoral Researcher at the University of Houston - Hobby School of Public Affairs during the 2024–2025 academic year.
 
-Contact me regarding research or collaboration opportunities. 
+I completed my Master's in Economics at the University of Houston with a focus on applied econometrics and labor markets. During my time there, I worked as a research assistant and gained hands-on experience in building predictive models, developing scalable pipelines, and communicating insights effectively to diverse stakeholders.
 
+Previously, I served as a Data Consultant at New York University where I developed deep learning models, NLP pipelines, and predictive analytics for large-scale firm survey data in collaboration with Samreen Malik and Jordan J. Norris.
+
+Beyond work, I write about machine learning and econometrics on my [Substack channel](https://henam.substack.com/), where I explore the intersection of AI, labor markets, and economic decision-making.
+
+Feel free to contact me for collaboration or data science opportunities.
