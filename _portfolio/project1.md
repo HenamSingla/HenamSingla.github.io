@@ -1,6 +1,6 @@
 ---
 title: "Customer Category Predictor"
-excerpt: "Customer classification and predictive analytics. <br/><img src='/images/500x300.png'>"
+excerpt: "Customer classification and predictive analytics <br/><img src='/images/flowchart.png'>"
 collection: portfolio
 ---
 
