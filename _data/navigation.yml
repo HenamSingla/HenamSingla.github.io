@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "Portfolio"
+  url: /portfolio/
+
+  - title: "Posts"
+    url: /posts/
+    
   - title: "Publications"
     url: /publications/
     
@@ -8,13 +15,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-
-# Remove or comment out the Software tab
-# - title: "Software"
-#   url: "/software/"
-
-  - title: "Posts"
-    url: /posts/
     
   - title: "CV"
     url: /cv/
