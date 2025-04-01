@@ -4,6 +4,9 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
+{% include base_path %}
 
 
-This is a placeholder. You’ll replace it with your project cards or text.
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
