@@ -5,9 +5,15 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
 
+<div class="container">
+  {% include base_path %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  <h1>{{ page.title }}</h1>
+
+  <div class="portfolio-items">
+    {% for post in site.portfolio %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</div>
