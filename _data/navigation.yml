@@ -1,8 +1,7 @@
-# main links links
+# main links
 main:
-
   - title: "Portfolio"
-  url: /portfolio/
+    url: /portfolio/
 
   - title: "Posts"
     url: /posts/
