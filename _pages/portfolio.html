@@ -2,14 +2,13 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
+author_profile: true
 ---
 
-<div class="container">
-  {% include base_path %}
+{% include base_path %}
 
-  <div class="portfolio-items">
-    {% for post in site.portfolio %}
-      {% include archive-single.html %}
-    {% endfor %}
-  </div>
+<div class="grid__wrapper">
+  {% for post in site.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 </div>
