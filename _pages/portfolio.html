@@ -2,13 +2,39 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
-author_profile: true
 ---
 
-{% include base_path %}
+<style>
+  .portfolio-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 40px; /* Space between items */
+  }
+  
+  .portfolio-item {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .portfolio-item h2 {
+    margin-top: 0;
+  }
+</style>
 
-<div class="grid__wrapper">
+<div class="portfolio-container">
   {% for post in site.portfolio %}
-    {% include archive-single.html type="grid" %}
+    <div class="portfolio-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+    </div>
   {% endfor %}
 </div>
