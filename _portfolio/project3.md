@@ -1,6 +1,6 @@
 ---
 title: "Nifty50 and Midcap50 Regression Analysis"
-excerpt: "Statistical analysis of index price relationships <br/><img src='/images/500x300.png'>"
+excerpt: "Statistical analysis of index price relationships <br/><img src='/images/nifty50.png'>"
 collection: portfolio
 ---
 
