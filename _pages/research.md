@@ -12,6 +12,7 @@ My research focuses on integrating machine learning techniques into labor market
 Works in Progress
 ---
 
+- How Do Special Education Funding Incentives Affect Student Performance? (with Katelyn Heath)
 - Impact of GED on hiring manager's decision (With [Blake H. Heller](https://www.blakeheller.com/))
 - Happiness and Gender in the workplace &nbsp; [[pdf](/files/Happiness_Diversity.pdf)] 
 - Coping with Frustration and Guilt Aversion &nbsp; [[pdf](/files/CopingWithFrustrationAndGuiltAversion.pdf)] 
