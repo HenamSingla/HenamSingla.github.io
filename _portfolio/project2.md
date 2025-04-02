@@ -4,6 +4,8 @@ excerpt: "Cosine Similarity of Headlines <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
+Link to the [GitHub repository](https://github.com/HenamSingla/Similartext)
+
 # 🧠 Clustering Similar Headlines Using Word Embeddings
 
 ## 📌 What I Did
