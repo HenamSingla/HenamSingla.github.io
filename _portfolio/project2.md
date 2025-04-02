@@ -1,6 +1,6 @@
 ---
 title: "Clustering Similar Headlines"
-excerpt: "Cosine Similarity of Headlines <br/><img src='/images/500x300.png'>"
+excerpt: "Cosine Similarity of Headlines <br/><img src='/images/headline_clustering.png'>"
 collection: portfolio
 ---
 
