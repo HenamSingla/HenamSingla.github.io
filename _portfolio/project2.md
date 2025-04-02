@@ -82,3 +82,73 @@ def check(i):
                 break
         if not added:
             l[i].append(titles[i])  # No match found, new cluster
+
+
+
+
+
+# 🧠 Clustering Similar Headlines Using Word Embeddings
+
+## 📌 What I Did
+The script clusters together similar news headlines based on their semantic meaning using **Word2Vec embeddings** and **cosine similarity**.
+
+## 🔍 How I Did It
+
+### 1. **Load the Dataset**
+- Used `pandas` to read a CSV file `headlines.csv` with a `Title` column containing the news headlines.
+
+```python
+import pandas as pd
+import numpy as np
+from nltk.tokenize import RegexpTokenizer
+from nltk.corpus import stopwords
+from gensim.models import Word2Vec
+from sklearn.metrics.pairwise import cosine_similarity
+
+# Load the headlines from CSV file
+data = pd.read_csv('headlines.csv')
+titles = data['Title'].tolist()
+```
+
+### 2. **Tokenize the Text**
+- Used `RegexpTokenizer` from `nltk` to split headlines into word tokens, removing punctuation.
+
+```python
+# Initialize tokenizer
+tknzr = RegexpTokenizer(r'\w+')
+
+# Tokenize all headlines
+tokens = []
+for title in titles:
+    tokens.append(tknzr.tokenize(title.lower()))
+```
+
+### 3. **Remove Stop Words**
+- Used NLTK's predefined list of English stop words.
+- Removed these stop words from each tokenized headline to reduce noise and improve model quality.
+
+```python
+# Get English stop words
+stop_words = set(stopwords.words('english'))
+
+# Remove stop words from tokens
+tokens_no_stop = []
+for i in range(len(tokens)):
+    tokens_no_stop.append([w for w in tokens[i] if w not in stop_words])
+```
+
+### 4. **Train a Word2Vec Model**
+- Trained a Word2Vec model using Gensim on the tokenized, stop word–free headlines.
+- Used `min_count=1` to include all words, ensuring even infrequent terms are embedded.
+
+```python
+# Train Word2Vec model
+word_vectors = Word2Vec(tokens_no_stop, min_count=1, vector_size=100)
+```
+
+### 5. **Create Sentence Vectors**
+- For each headline, created a sentence vector by summing the Word2Vec embeddings of each word in the headline.
+- Initialized a zero vector of length 100 (default Word2Vec vector size), and accumulated word vectors.
+
+```python
+def
