@@ -28,7 +28,7 @@ In my academic and policy work:
 - **Labor Market Research**: Current projects explore how credentials like the GED affect job access and how skill gaps shape inequality across countries.
 
 ## About Me
-I hold dual Master’s degrees in Economics and Finance, and currently serve as a Doctoral Researcher at the University of Houston - Hobby School of Public Affairs (2024–2025). My professional path spans public policy, energy, and fintech, where I've built a foundation in real-world analytics and impact-driven research. Whether it's coding models or advising strategy, I focus on clear, practical solutions rooted in data.
+I hold dual Master’s degrees in Economics and Finance, and currently serve as a Graduate Researcher at the University of Houston - Hobby School of Public Affairs (2024–2025). My professional path spans public policy, energy, and fintech, where I've built a foundation in real-world analytics and impact-driven research. Whether it's coding models or advising strategy, I focus on clear, practical solutions rooted in data.
 
 ### Professional Experience
 - **Data Scientist at Enerpact**  
