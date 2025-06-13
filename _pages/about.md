@@ -1,82 +1,47 @@
----
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to My Blog"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hello and welcome! I'm Henam Singla — a Data Scientist and Researcher passionate about Machine Learning, Applied Econometrics, and Data-Driven Decision Making. On this blog, I share insights, tutorials, and reflections on the intersection of economics, technology, and social impact.
 
-> **Fields of Interest**: Machine Learning, Applied Econometrics, Data Science
+## Topics I Cover
+- **Machine Learning & Econometrics**: Interpretable models, causal inference (DiD, RDD, Synthetic Control), and forecasting.
+- **Data Science Applications**: End-to-end pipelines in Python, production-ready deployment, SQL-based analytics, and dashboarding with Power BI or Tableau.
+- **Tech for Social Good**: AI tools for labor market research, education policy, and economic development.
+- **Writing & Communication**: Translating technical results into stories that guide decisions and shape outcomes.
 
-Hi there! I'm a Data Scientist with a strong foundation in economics and a passion for uncovering insights from complex datasets. My work bridges machine learning, causal inference, and real-world impact, developed across roles in finance, public policy and energy.
+## Highlights
+### Data Science and Econometrics in Practice
+I specialize in bridging data and decision-making:
+- **Forecasting & Decision Tools**: At Enerpact, I developed a forecasting system that improved well project success rates by 30% and boosted user adoption by 25%.
+- **Production Modeling**: Built and deployed analytics solutions to support energy and finance stakeholders using Python, SQL, and BI tools.
 
-Currently, I work as a Data Scientist at Enerpact, where I built and deployed a Python-based forecasting tool that increased user adoption by 25% and improved well project success rates by 30%. I also designed SQL-driven dashboards and production models to help business teams make data-informed decisions. 
+### Policy, Labor, and Causal Research
+In my academic and policy work:
+- **Causal Impact Evaluation**: Designing studies using quasi-experimental methods to assess programs and policy effectiveness.
+- **Labor Market Research**: Current projects explore how credentials like the GED affect job access and how skill gaps shape inequality across countries.
 
-What sets me apart? Storytelling through data. I don’t just code models—I translate outputs into decisions. My work is driven by a storytelling-first approach—making technical outputs understandable and useful for non-technical teams.
+## About Me
+I hold dual Master’s degrees in Economics and Finance, and currently serve as a Doctoral Researcher at the University of Houston - Hobby School of Public Affairs (2024–2025). My professional path spans public policy, energy, and fintech, where I've built a foundation in real-world analytics and impact-driven research. Whether it's coding models or advising strategy, I focus on clear, practical solutions rooted in data.
 
-I am also a Doctoral Researcher at the University of Houston - Hobby School of Public Affairs during the 2024–2025 academic year.
+### Professional Experience
+- **Data Scientist at Enerpact**  
+  Developed predictive tools and SQL-based dashboards to guide strategic decision-making in energy operations.
+- **Academic Researcher**  
+  Collaborated on projects involving labor markets, skill assessment, and policy evaluations using econometrics and machine learning.
+- **Data Analyst & Consultant**  
+  Applied data science methods across industries, focusing on storytelling with data and scalable infrastructure.
 
-Beyond work, I write about machine learning and econometrics on my [Substack channel](https://henam.substack.com/), where I explore the intersection of AI, labor markets, and economic decision-making.
+## Connect With Me
+To stay updated on my latest posts, feel free to connect or reach out:
 
-Feel free to contact me for collaboration or data science opportunities.
+- **Substack**: [henam.substack.com](https://henam.substack.com)  
+- **GitHub**: [github.com/henamsingla](https://github.com/henamsingla)  
+- **LinkedIn**: [linkedin.com/in/henamsingla](https://linkedin.com/in/henamsingla)  
+- **Email**: henamsingla@gmail.com
 
-# Welcome to My Blog
-
-Hi there! I’m Henam Singla — a Data Scientist and Researcher passionate about **Machine Learning**, **Applied Econometrics**, and **Data-Driven Decision Making**. This blog is where I share insights, tutorials, and reflections at the intersection of economics, technology, and impact.
-
----
-
-## 📌 Topics I Cover
-
-### 🧠 Machine Learning & Econometrics
-I explore how algorithms and causal inference techniques can uncover insights from complex data:
-- Interpretable ML for policy and business impact  
-- Causal inference using RCTs, DiD, RDD, and Synthetic Control  
-- Forecasting, time-series analysis, and anomaly detection
-
-### 🔬 Data Science in the Real World
-From model building to stakeholder decisions:
-- Python-based data pipelines and automation  
-- Communicating insights through dashboards (Power BI, Tableau)  
-- SQL-driven analytics and production-ready model deployment
-
-### 📈 Tech + Economics
-Using tech tools to answer economic questions:
-- Labor economics, job markets, inequality studies  
-- AI applications in public policy and development  
-- Writing and visualizing complex research for broader audiences
-
----
-
-## 🌟 Highlights
-
-### 🏢 Industry Work
-At **Enerpact**, I built a forecasting tool that improved well project success rates by **30%** and drove **25% higher adoption** among stakeholders. I’ve also led the development of SQL dashboards and forecasting models to support real-time decision-making.
-
-### 🎓 Academic Research
-As a **Doctoral Researcher at the University of Houston – Hobby School of Public Affairs (2024–2025)**, I explore data-driven answers to pressing labor and education policy questions.
-
-### ✍️ Writing
-I regularly publish on [Substack](https://henam.substack.com/) about ML, econometrics, and the social impact of data. My posts range from causal methods tutorials to reflections on AI’s role in modern economies.
-
----
-
-## 👤 About Me
-
-With a dual Master’s in **Economics** and **Finance**, and research experience across **public policy**, **energy**, and **finance**, I bring a multidisciplinary approach to every project. Whether it's building models or advising on strategy, I focus on making technical insights actionable.
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to new collaborations and conversations. Whether you're a fellow researcher, a startup founder, or someone curious about data science, feel free to reach out!
-
-- 📫 **Email**: henamsingla@gmail.com  
-- 📚 **Substack**: [henam.substack.com](https://henam.substack.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/henamsingla](https://linkedin.com/in/henamsingla)  
-- 📊 **GitHub**: [github.com/henamsingla](https://github.com/henamsingla)
-
-Thanks for visiting — let’s build something impactful together!
+_Thanks for visiting my blog. Let’s build something impactful together._
