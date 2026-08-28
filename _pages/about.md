@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 > **Fields of Interest**: Machine Learning, Causal Inference, Deep Learning, Artificial Intelligence, Natural Language Processing
-**Applied Fields**: Labor Economics, Applied Microeconomics, Econometrics, Entrepreneurship
+
+> **Applied Fields**: Labor Economics, Applied Microeconomics, Econometrics, Entrepreneurship
 
 I am a Ph.D. Candidate in Economics at the [University of Houston](https://www.uh.edu/class/economics/), specializing in labor economics, applied microeconomics, and econometrics. My research includes studying entrepreneurial negotiation and valuation using detailed data from Shark Tank, focusing on bargaining dynamics and investor responses.
 
